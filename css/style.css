@@ -8268,7 +8268,7 @@ strong {
     display: inline-block;
     margin-bottom: 0;
     line-height: 1.5;
-    font-family: "Nunito Sans", cursive; }
+    font-family: "Poppins", Arial, sans-serif; }
     #colorlib-main-nav .logo span {
       font-size: 14px;
       display: block;
@@ -8565,7 +8565,7 @@ header {
   line-height: 1;
   font-weight: 900;
   text-transform: uppercase;
-  font-family: "Nunito Sans", cursive;
+  font-family: "Poppins", Arial, sans-serif;
   display: inline-block;
   overflow: hidden;
   position: relative;
@@ -8788,7 +8788,7 @@ header {
           color: #fff; }
     .hero-wrap .text .bread {
       font-size: 150px;
-      font-family: "Nunito Sans", cursive;
+      font-family: "Poppins", Arial, sans-serif;
       font-weight: 400;
       line-height: 1;
       text-transform: uppercase;
